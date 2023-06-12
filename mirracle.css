@@ -1,0 +1,27 @@
+body{
+   background-color:rgb(23, 24, 23) ;
+}
+
+li{
+   list-style-type:none;
+   display:inline-flex;
+   color: black;
+   justify-content:space-between;
+}
+
+.part{
+   float:left;
+}
+#image1{
+   float:right;
+}
+
+li{
+   display:inline-flex;
+   justify-content:space-between;
+}
+
+
+
+   
+
